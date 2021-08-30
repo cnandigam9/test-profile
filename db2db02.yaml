@@ -1,0 +1,21 @@
+dbtype: db2zos
+connect:
+    host: db2c239.deere.com
+    port: 50000
+    dbname: db239
+    secret:
+      endpoint: dx.deere.com
+      key: sddfgfd
+      token: 1235dfgfdg
+database:
+    include: abcd1db, abcd2db, abcd3db, abcd4db
+    exclude: xyz1db, xyz2db
+schema:
+    include: abcd1db.a17e3et, abcd1db.a17e3xyz, abcd1db.a17ezm17
+    exclude: abcd1db.a17e3pt, abcd1db.a17e3bk, abcd1db.a17ezmg1
+tables:
+    include: all
+    exclude: none
+access:
+    include: all
+    exclude: none
