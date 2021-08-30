@@ -1,0 +1,4 @@
+process:
+  configs: 
+    include: jnrdb2db01
+    exclude: jnrdb2db02
