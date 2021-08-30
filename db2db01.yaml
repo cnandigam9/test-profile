@@ -1,0 +1,21 @@
+dbtype: mySQL
+connect:
+    host: jnrpoc.cuchpy1iaizc.ap-south-1.rds.amazonaws.com
+    port: 3306
+    dbname: db239
+    secret:
+      endpoint: dx.deere.com
+      key: njanagunda
+      token: Tru$tno1
+database:
+    include: UgraClinics
+    exclude: none
+schema:
+    include: abcd1db.a17e3et, abcd1db.a17e3xyz, abcd1db.a17ezm17
+    exclude: abcd1db.a17e3pt, abcd1db.a17e3bk, abcd1db.a17ezmg1
+tables:
+    include: all
+    exclude: none
+access:
+    include: all
+    exclude: none
