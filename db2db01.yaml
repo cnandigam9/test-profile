@@ -1,6 +1,6 @@
 dbtype: mySQL
 connect:
-    host: jnrpoc.cuchpy1iaizc.ap-south-1.rds.amazonaws.com
+    
     port: 3306
     dbname: db239
     secret:
