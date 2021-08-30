@@ -1,4 +1,4 @@
 process:
   configs: 
-    include: jnrdb2db01, db2db01, jnrdb2db02, db2db02
+    include: jnrdb2db01,db2db01,jnrdb2db02,db2db02
     exclude: none
