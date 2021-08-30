@@ -13,9 +13,7 @@ database:
 schema:
     include: abcd1db.a17e3et, abcd1db.a17e3xyz, abcd1db.a17ezm17
     exclude: abcd1db.a17e3pt, abcd1db.a17e3bk, abcd1db.a17ezmg1
-tables:
-    include: all
-    exclude: none
+
 access:
     include: all
     exclude: none
